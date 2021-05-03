@@ -160,5 +160,5 @@ clearBtn.onclick = clickClear;
 const negativeBtn = document.querySelector('#positive-negative-btn');
 negativeBtn.onclick = clickNegativeBtn;
 
-//add event listener on the decimal adder
+//add event listener on the keys
 document.addEventListener('keydown', pressedKey);
